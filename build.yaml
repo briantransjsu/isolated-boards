@@ -19,6 +19,6 @@
 #
 ---
 include:
-  board: isolde_left
-  shield: isolde_left
+  -board: isolde_left
+   shield: isolde_left
   
