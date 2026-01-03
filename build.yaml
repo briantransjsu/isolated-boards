@@ -19,6 +19,6 @@
 #
 ---
 include:
-  -board: isolde_left
+  -board: nrfmicro_11
    shield: isolde_left
   
