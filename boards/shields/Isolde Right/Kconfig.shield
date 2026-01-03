@@ -1,0 +1,5 @@
+# Copyright (c) 2022 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config SHIELD_ISOLDE_RIGHT
+   def_bool $(shields_list_contains,ISOLDE_RIGHT)
